@@ -5,7 +5,7 @@ Python automation toolkit for **Monad testnet** — multi-wallet execution for s
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3.10%2B-blue">
   <img src="https://img.shields.io/badge/Network-Monad%20Testnet-purple">
-  <img src="https://img.shields.io/badge/Web3-web3.py-black">
+  <img src="https://img.shields.io/badge/Web3-web3.py-blue">
   <img src="https://img.shields.io/badge/Type-Automation%20Toolkit-brightgreen">
   <img src="https://img.shields.io/badge/DEX-V2%20Router-orange">
 </p>
