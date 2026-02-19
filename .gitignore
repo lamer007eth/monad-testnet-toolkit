@@ -1,0 +1,26 @@
+# Env / secrets
+.env
+.env.*
+wallets.txt
+data/wallets.txt
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+logs/
+*.log
+
+# Data runtime
+data/txhashes.txt
+
+# IDE
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
